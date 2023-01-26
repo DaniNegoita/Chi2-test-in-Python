@@ -1,6 +1,6 @@
 # Chi2-test-in-Python
 
-This project assesses the relationship between voting in the last political elections and the internet use frequency among 1470 Dutch respondents. 
+This project assesses the relationship between voting in the last political elections and the internet use frequency among 1395 Dutch respondents. 
 
 #Workflow steps
 1. Subset the data by rows and columns of interest
