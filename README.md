@@ -13,6 +13,6 @@ This project assesses the relationship between voting in the last political elec
 
 #Findings
 
-The estimates (Chi2(4) = 82.50, p < .05) showed a statistically significant association between the use of internet and the likelihood to vote in the last national elections. However, the magnitude of this relationship is weak Cramer's V = 0.09.
+The estimates (Chi2(4) = 13.10 p < .05) showed a statistically significant association between the use of internet and the likelihood to vote in the last national elections but the magnitude of this relationship is weak Cramer's V = 0.10. All, exception made for three expected frequencies cells, were greater than five. 
 
 
